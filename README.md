@@ -12,6 +12,10 @@
 > 📝 blog : [https://velog.io/@jinii](https://velog.io/@jinii)
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeeJin0527&show_icons=true&theme=radical" height=175px>
+
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun)](https://solved.ac/zinzun)
+
 <!--
 **LeeJin0527/LeeJin0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
