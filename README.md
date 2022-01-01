@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=LeeJin0527&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun)](https://solved.ac/zinzun)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun)](https://solved.ac/profile/zinzun)
 
 <!--
 **LeeJin0527/LeeJin0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
