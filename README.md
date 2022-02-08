@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeeJin0527&show_icons=true&theme=radical" height=175px>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeeJin0527&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun)](https://solved.ac/profile/zinzun)
