@@ -5,8 +5,7 @@
 ![living](https://img.shields.io/badge/living-YongIn-3c9)
 
 
-> 💻 Kyungpook National University, Department of Software
->
+
 > 📝 blog : [https://velog.io/@jinii](https://velog.io/@jinii)
 > 
 > 주니어 **서버 엔지니어** 이진입니다 🕜
