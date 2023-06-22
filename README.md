@@ -17,7 +17,7 @@
 - 🌱 Learning Ios web development
 
 ### History
-- 💚 Naver WorksMobile Ios Developer (2022.12 ~ 2023.02)
+- 💚 Naver WorksMobile Ios Developer Intern (2022.12 ~ 2023.02)
 - 💻 Software Maestro 13th (2022.04~2022.12)
 - 💙 WiniTech - BackEnd Developer Intern (2021.07~2021.08)
 - 🧡 Hustar ICT - Certificated (2020.03 ~ 2022.02)
