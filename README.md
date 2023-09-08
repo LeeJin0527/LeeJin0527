@@ -14,9 +14,9 @@
 <img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun">
 <br>
     
--🌱 Learning backend web development
+🌱 Learning backend web development
 <br>
--🌱 Learning iOS development
+🌱 Learning iOS development
 
 ### History
 - 💚 Naver WorksMobile iOS Developer Intern (2022.12 ~ 2023.02)
