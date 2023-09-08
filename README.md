@@ -12,6 +12,7 @@
  ### About me
 
 <img align='right' height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun">
+
 - 🌱 Learning backend web development
 - 🌱 Learning iOS development
 
