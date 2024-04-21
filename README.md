@@ -30,8 +30,9 @@
 - 정보처리기사 (2023.09.01, 한국산업인력공단) <br>
 - AWS Certified Developer – Associate (2023.08.20, AWS) <br>
 - AWS Certified Cloud Practitioner (2023.06.24, AWS) <br>
+- TOPCIT(ICT역량지수평가) - 수준3 (2022.10.29, 과학기술정보통신부) <br>
 - SQLD (2021.10.01, 한국데이터산업진흥원) <br>
-- TOPCIT(ICT역량지수평가) - 수준3 (2022.10.29, 과학기술정보통신부)
+
 
 
 <br/>
