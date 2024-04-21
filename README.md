@@ -1,4 +1,4 @@
-# Lee-Jin😀
+# Lee Jin 😀
 <div align='center'>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeJin0527%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -24,6 +24,15 @@
 💙 WiniTech - BackEnd Developer Intern (2021.07 ~ 2021.08) <br>
 🧡 Hustar ICT - Certificated (2020.03 ~ 2022.02) <br>
 🎓 The University of Kyungpook National University - Bachelor of Software (2018.03 ~ 2022.02)
+<br>
+### Certificate
+- **AWS Solutions Architect – Associate** (2024.04.20, AWS) <br>
+- **정보처리기사** (2023.09.01, 한국산업인력공단) <br>
+- **AWS Certified Developer – Associate** (2023.08.20, AWS) <br>
+- **AWS Certified Cloud Practitioner** (2023.06.24, AWS) <br>
+- **SQLD** (2021.10.01, 한국데이터산업진흥원) <br>
+- **TOPCIT(ICT역량지수평가) - 수준3** (2022.10.29, 과학기술정보통신부)
+
 
 <br/>
  
