@@ -21,17 +21,17 @@
 💙 Hyundai-AutoEver BackEnd Developer (2023.10~ current) <br>
 💚 Naver WorksMobile iOS Developer Intern (2022.12 ~ 2023.02) <br>
 💻 Software Maestro 13th (2022.04 ~ 2022.12) <br>
-💙 WiniTech - BackEnd Developer Intern (2021.07 ~ 2021.08) <br>
+🩵 WiniTech - BackEnd Developer Intern (2021.07 ~ 2021.08) <br>
 🧡 Hustar ICT - Certificated (2020.03 ~ 2022.02) <br>
 🎓 The University of Kyungpook National University - Bachelor of Software (2018.03 ~ 2022.02)
 <br>
 ### Certificate
-- **AWS Solutions Architect – Associate** (2024.04.20, AWS) <br>
-- **정보처리기사** (2023.09.01, 한국산업인력공단) <br>
-- **AWS Certified Developer – Associate** (2023.08.20, AWS) <br>
-- **AWS Certified Cloud Practitioner** (2023.06.24, AWS) <br>
-- **SQLD** (2021.10.01, 한국데이터산업진흥원) <br>
-- **TOPCIT(ICT역량지수평가) - 수준3** (2022.10.29, 과학기술정보통신부)
+- AWS Solutions Architect – Associate (2024.04.20, AWS) <br>
+- 정보처리기사 (2023.09.01, 한국산업인력공단) <br>
+- AWS Certified Developer – Associate (2023.08.20, AWS) <br>
+- AWS Certified Cloud Practitioner (2023.06.24, AWS) <br>
+- SQLD (2021.10.01, 한국데이터산업진흥원) <br>
+- TOPCIT(ICT역량지수평가) - 수준3 (2022.10.29, 과학기술정보통신부)
 
 
 <br/>
