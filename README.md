@@ -18,11 +18,12 @@
 🌱 Learning iOS development
 
 ### History
-- 💚 Naver WorksMobile iOS Developer Intern (2022.12 ~ 2023.02)
-- 💻 Software Maestro 13th (2022.04~2022.12)
-- 💙 WiniTech - BackEnd Developer Intern (2021.07~2021.08)
-- 🧡 Hustar ICT - Certificated (2020.03 ~ 2022.02)
-- 🎓 The University of Kyungpook National University - Bachelor of Software (2018.03 ~ 2022.02)
+💙 Hyundai-AutoEver BackEnd Developer (2023.10~ current) <br>
+💚 Naver WorksMobile iOS Developer Intern (2022.12 ~ 2023.02) <br>
+💻 Software Maestro 13th (2022.04 ~ 2022.12) <br>
+💙 WiniTech - BackEnd Developer Intern (2021.07 ~ 2021.08) <br>
+🧡 Hustar ICT - Certificated (2020.03 ~ 2022.02) <br>
+🎓 The University of Kyungpook National University - Bachelor of Software (2018.03 ~ 2022.02)
 
 <br/>
  
