@@ -1,38 +1,4 @@
 # Lee Jin 😀
-<div align='center'>
- 
-![focus](https://img.shields.io/badge/focus-backend-orange)
-
-<br/>
-<a href="https://olivine-winter-34a.notion.site/9107e0be6ccf438b9efb806656208df3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
-<a href="https://velog.io/@jinii/%EC%9B%B9-%EB%98%90%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-Amazon-S3%EB%A1%9C-%EC%A7%81%EC%A0%91-%EC%97%85%EB%A1%9C%EB%93%9C" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/></a> 
- </div>
-
- ### About me
-
-<img height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zinzun">
-
-🌱 Learning backend web development
-<br>
-🌱 Learning iOS development
-
-### History
-💙 Hyundai-AutoEver BackEnd Developer (2023.10~ current) <br>
-💚 Naver WorksMobile iOS Developer Intern (2022.12 ~ 2023.02) <br>
-💻 Software Maestro 13th (2022.04 ~ 2022.12) <br>
-🩵 WiniTech - BackEnd Developer Intern (2021.07 ~ 2021.08) <br>
-🧡 Hustar ICT - Certificated (2020.03 ~ 2022.02) <br>
-🎓 The University of Kyungpook National University - Bachelor of Software (2018.03 ~ 2022.02)
-<br>
-### Certificate
-- AWS Solutions Architect – Associate (2024.04.20, AWS) <br>
-- 정보처리기사 (2023.09.01, 한국산업인력공단) <br>
-- AWS Certified Developer – Associate (2023.08.20, AWS) <br>
-- AWS Certified Cloud Practitioner (2023.06.24, AWS) <br>
-- TOPCIT(ICT역량지수평가) - 수준3 (2022.10.29, 과학기술정보통신부) <br>
-- SQLD (2021.10.01, 한국데이터산업진흥원) <br>
-
-
 
 <br/>
  
